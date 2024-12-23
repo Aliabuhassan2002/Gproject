@@ -1,0 +1,16 @@
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  display: block;
+  text-decoration: none;
+}
+
+.nave-bar {
+  background-color: #2c3a46;
+}/*# sourceMappingURL=portfolio.css.map */
